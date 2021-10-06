@@ -1,0 +1,38 @@
+body {
+  background-color:#C9C0BB;
+}
+
+h1 {
+  color:#4863A0;
+  font-family:georgia;
+  border: 2px solid #E5E4E2;
+  background-color: #D1D0CE;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color:#737CA1;
+    font-family:georgia;
+}
+
+h3 {
+  color:#616D7E;
+  font-family:georgia;
+}
+
+img {
+  border: 2px solid #E5E4E2;
+  width:40%;
+  height:40%;
+  margin-left:50px;
+}
+
+#highlight {
+  background-color: #728FCE;
+}
+
+.top {
+  background-color: #E3E4FA;
+  float: right;
+}
